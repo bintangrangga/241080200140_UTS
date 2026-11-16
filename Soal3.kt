@@ -1,4 +1,4 @@
-package com.example.kampusku.soal3
+package com.example.a241080200140_uts.soal3
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
